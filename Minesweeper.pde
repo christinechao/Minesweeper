@@ -25,7 +25,7 @@ void setup ()
   bombs = new ArrayList <MSButton>();
   //setting the number of bombs
   int i=0;
-  while (i<10) {
+  while (i<30) {
     setBombs();
     i++;
   }
